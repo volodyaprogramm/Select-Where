@@ -1,0 +1,8 @@
+<html>
+<body>
+
+<?= $data ?>
+
+
+</body>
+</html>
